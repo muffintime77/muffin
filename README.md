@@ -1,10 +1,15 @@
 # muffin
 INSTALL
 
+
 pip install requests
+
 git clone https://github.com/muffintime77/youbotTG.git
+
 cd youbotTG
+
 python main.py
+
 
 USING
 
